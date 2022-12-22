@@ -1,0 +1,8 @@
+ipython==8.7.0
+ipywidgets==8.0.2
+matplotlib==3.6.0
+numpy==1.17.4
+scipy==1.9.1
+SimpleITK==2.2.1
+skimage==0.0
+tifffile==2022.8.12
